@@ -6,5 +6,10 @@
 6th line #2
 7th line #2
 8th line #2
+<<<<<<< HEAD
 9th line #2  updated in the git_1
 10th line #2 updated in the git_1
+=======
+9th line #2  updated in the git_2
+10th line #2 updated in the git_2
+>>>>>>> git_2
