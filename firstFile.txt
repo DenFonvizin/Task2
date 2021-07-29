@@ -1,8 +1,8 @@
 1st line	added in the git_1 for format patch
 2nd line	added in the git_1 for format patch
 3rd line
-4th line
-5th line
+4th line	added to check for anotherfolder
+5th line	added to check for anotherfolder
 6th line
 7th line
 8th line
