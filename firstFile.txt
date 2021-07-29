@@ -4,7 +4,7 @@
 4th line
 5th line
 6th line
-7th line
-8th line
+7th line	added from folder2 for sync check
+8th line	added from folder2 for sync check
 9th line	added in the git_1 for cherrypick
 10th line	added in the git_1 for cherrypick
